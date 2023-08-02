@@ -6,7 +6,7 @@ The OptiBill is a simple Java swing application that allows users to manage cust
 <h2>Features:</h2>
 
 <h4>Customer Management:</h4>
-1) Add new customers with their details such as name, address, contact information, etc.
+1) Add new customers with their details such as name, address, contact information, etc.<br>
 2) View existing customer details.
 
 <h4>Bill Management:</h4>
